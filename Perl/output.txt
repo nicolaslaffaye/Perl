@@ -1,0 +1,41 @@
+Text Output ordered by location then by date
+9028|Canberra|2015-05-15|Mostly sunny|7.0|23.0
+9028|Canberra|2015-05-16|Late shower|11.0|23.0
+9028|Canberra|2015-05-17|Possible shower|10.0|25.0
+9028|Canberra|2015-05-18|Showers increasing|11.0|21.0
+9028|Canberra|2015-05-19|Showers|13.0|23.0
+9110|Darwin|2015-05-15|Late thunder|25.0|33.0
+9110|Darwin|2015-05-16|Late thunder|25.0|33.0
+9110|Darwin|2015-05-17|Thunderstorms|25.0|32.0
+9110|Darwin|2015-05-18|Thunderstorms|25.0|32.0
+9110|Darwin|2015-05-19|Possible thunderstorm|24.9|32.3
+9250|Brisbane|2015-05-15|Possible shower|19.0|26.0
+9250|Brisbane|2015-05-16|Mostly sunny|18.0|26.0
+9250|Brisbane|2015-05-17|Mostly sunny|18.0|26.0
+9250|Brisbane|2015-05-18|Possible shower|18.0|26.0
+9250|Brisbane|2015-05-19|Possible shower|18.0|27.0
+9329|Hobart|2015-05-15|Drizzle clearing|10.0|20.0
+9329|Hobart|2015-05-16|Mostly sunny|11.0|21.0
+9329|Hobart|2015-05-17|Drizzle clearing|12.0|23.0
+9329|Hobart|2015-05-18|Mostly sunny|12.0|23.0
+9329|Hobart|2015-05-19|Rain|15.0|20.0
+9401|Adelaide|2015-05-15|Mostly sunny|16.0|30.0
+9401|Adelaide|2015-05-16|Mostly sunny|17.0|31.0
+9401|Adelaide|2015-05-17|Rain|20.0|29.0
+9401|Adelaide|2015-05-18|Possible shower|18.0|25.0
+9401|Adelaide|2015-05-19|Clearing shower|17.0|24.0
+9477|Melbourne|2015-05-15|Mostly sunny|11.0|25.0
+9477|Melbourne|2015-05-16|Mostly sunny|13.0|29.0
+9477|Melbourne|2015-05-17|Mostly sunny|17.0|30.0
+9477|Melbourne|2015-05-18|Rain developing|20.0|27.0
+9477|Melbourne|2015-05-19|Showers|18.0|25.0
+9528|Perth|2015-05-15|Possible thunderstorm|19.0|27.0
+9528|Perth|2015-05-16|Mostly sunny|17.0|28.0
+9528|Perth|2015-05-17|Mostly sunny|17.0|29.0
+9528|Perth|2015-05-18|Mostly sunny|16.0|27.0
+9528|Perth|2015-05-19|Sunny|16.0|29.0
+9770|Sydney|2015-05-15|Clearing shower|15.0|22.0
+9770|Sydney|2015-05-16|Mostly sunny|13.0|21.0
+9770|Sydney|2015-05-17|Mostly sunny|16.0|23.0
+9770|Sydney|2015-05-18|Possible shower|17.0|23.0
+9770|Sydney|2015-05-19|Showers|18.0|24.0

@@ -1,0 +1,41 @@
+LocCode,State,Name,Date,Icon,MinTemp,MaxTemp
+9028,ACT,Canberra,2015-05-15,Mostly sunny,7,23
+9028,ACT,Canberra,2015-05-16,Late shower,11,23
+9028,ACT,Canberra,2015-05-17,Possible shower,10,25
+9028,ACT,Canberra,2015-05-18,Showers increasing,11,21
+9028,ACT,Canberra,2015-05-19,Showers,13,23
+9110,NT,Darwin,2015-05-15,Late thunder,25,33
+9110,NT,Darwin,2015-05-16,Late thunder,25,33
+9110,NT,Darwin,2015-05-17,Thunderstorms,25,32
+9110,NT,Darwin,2015-05-18,Thunderstorms,25,32
+9110,NT,Darwin,2015-05-19,Possible thunderstorm,24.9,32.3
+9250,QLD,Brisbane,2015-05-15,Possible shower,19,26
+9250,QLD,Brisbane,2015-05-16,Mostly sunny,18,26
+9250,QLD,Brisbane,2015-05-17,Mostly sunny,18,26
+9250,QLD,Brisbane,2015-05-18,Possible shower,18,26
+9250,QLD,Brisbane,2015-05-19,Possible shower,18,27
+9329,TAS,Hobart,2015-05-15,Drizzle clearing,10,20
+9329,TAS,Hobart,2015-05-16,Mostly sunny,11,21
+9329,TAS,Hobart,2015-05-17,Drizzle clearing,12,23
+9329,TAS,Hobart,2015-05-18,Mostly sunny,12,23
+9329,TAS,Hobart,2015-05-19,Rain,15,20
+9401,SA,Adelaide,2015-05-15,Mostly sunny,16,30
+9401,SA,Adelaide,2015-05-16,Mostly sunny,17,31
+9401,SA,Adelaide,2015-05-17,Rain,20,29
+9401,SA,Adelaide,2015-05-18,Possible shower,18,25
+9401,SA,Adelaide,2015-05-19,Clearing shower,17,24
+9477,VIC,Melbourne,2015-05-15,Mostly sunny,11,25
+9477,VIC,Melbourne,2015-05-16,Mostly sunny,13,29
+9477,VIC,Melbourne,2015-05-17,Mostly sunny,17,30
+9477,VIC,Melbourne,2015-05-18,Rain developing,20,27
+9477,VIC,Melbourne,2015-05-19,Showers,18,25
+9528,WA,Perth,2015-05-15,Possible thunderstorm,19,27
+9528,WA,Perth,2015-05-16,Mostly sunny,17,28
+9528,WA,Perth,2015-05-17,Mostly sunny,17,29
+9528,WA,Perth,2015-05-18,Mostly sunny,16,27
+9528,WA,Perth,2015-05-19,Sunny,16,29
+9770,NSW,Sydney,2015-05-15,Clearing shower,15,22
+9770,NSW,Sydney,2015-05-16,Mostly sunny,13,21
+9770,NSW,Sydney,2015-05-17,Mostly sunny,16,23
+9770,NSW,Sydney,2015-05-18,Possible shower,17,23
+9770,NSW,Sydney,2015-05-19,Showers,18,24

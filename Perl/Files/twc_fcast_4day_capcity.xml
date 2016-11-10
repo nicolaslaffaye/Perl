@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<data>
+  <metadata>
+    <sector>weather</sector>
+    <title>Local forecasts</title>
+    <provider>The Weather Company</provider>
+    <provider_url>http://www.theweather.com.au</provider_url>
+    <schema>twcwx.dtd</schema>
+    <version>1.11</version>
+    <create_time tz="EDT">2015-05-08T12:00:00</create_time>
+    <validity>
+      <date>2015-05-08</date>
+      <day_name>Thursday</day_name>
+    </validity>
+  </metadata>
+  <weather>
+    <countries>
+      <country code="AU" name="Australia">
+        <location type="TWCID" code="9401" name="Adelaide" state="SA">
+          <forecasts>
+            <forecast day="0">
+              <day_name>Thursday</day_name>
+              <date>2015-05-15</date>
+              <temp_min_c units="&#176;C">16</temp_min_c>
+              <temp_max_c units="&#176;C">30</temp_max_c>
+              <prob_precip units="%">5</prob_precip>
+              <icon>Mostly sunny</icon>
+            </forecast>
+            <forecast day="1">
+              <day_name>Friday</day_name>
+              <date>2015-05-16</date>
+              <temp_min_c units="&#176;C">17</temp_min_c>
+              <temp_max_c units="&#176;C">31</temp_max_c>
+              <prob_precip units="%">60</prob_precip>
+              <icon>Mostly sunny</icon>
+            </forecast>
+            <forecast day="2">
+              <day_name>Saturday</day_name>
+              <date>2015-05-17</date>
+              <temp_min_c units="&#176;C">20</temp_min_c>
+              <temp_max_c units="&#176;C">29</temp_max_c>
+              <prob_precip units="%">80</prob_precip>
+              <icon>Rain</icon>
+            </forecast>
+            <forecast day="3">
+              <day_name>Sunday</day_name>
+              <date>2015-05-18</date>
+              <temp_min_c units="&#176;C">18</temp_min_c>
+              <temp_max_c units="&#176;C">25</temp_max_c>
+              <prob_precip units="%">40</prob_precip>
+              <icon>Possible shower</icon>
+            </forecast>
+          </forecasts>
+        </location>
+        <location type="TWCID" code="9250" name="Brisbane" state="QLD">
+          <forecasts>
+            <forecast day="0">
+              <day_name>Thursday</day_name>
+              <date>2015-05-15</date>
+              <temp_min_c units="&#176;C">19</temp_min_c>
+              <temp_max_c units="&#176;C">26</temp_max_c>
+              <prob_precip units="%">70</prob_precip>
+              <icon>Possible shower</icon>
+            </forecast>
+            <forecast day="1">
+              <day_name>Friday</day_name>
+              <date>2015-05-16</date>
+              <temp_min_c units="&#176;C">18</temp_min_c>
+              <temp_max_c units="&#176;C">26</temp_max_c>
+              <prob_precip units="%">50</prob_precip>
+              <icon>Mostly sunny</icon>
+            </forecast>
+            <forecast day="2">
+              <day_name>Saturday</day_name>
+              <date>2015-05-17</date>
+              <temp_min_c units="&#176;C">18</temp_min_c>
+              <temp_max_c units="&#176;C">26</temp_max_c>
+              <prob_precip units="%">50</prob_precip>
+              <icon>Mostly sunny</icon>
+            </forecast>
+            <forecast day="3">
+              <day_name>Sunday</day_name>
+              <date>2015-05-18</date>
+              <temp_min_c units="&#176;C">18</temp_min_c>
+              <temp_max_c units="&#176;C">26</temp_max_c>
+              <prob_precip units="%">60</prob_precip>
+              <icon>Possible shower</icon>
+            </forecast>
+          </forecasts>
+        </location>
+        <location type="TWCID" code="9028" name="Canberra" state="ACT">
+          <forecasts>
+            <forecast day="0">
+              <day_name>Thursday</day_name>
+              <date>2015-05-15</date>
+              <temp_min_c units="&#176;C">7</temp_min_c>
+              <temp_max_c units="&#176;C">23</temp_max_c>
+              <prob_precip units="%">50</prob_precip>
+              <icon>Mostly sunny</icon>
+            </forecast>
+            <forecast day="1">
+              <day_name>Friday</day_name>
+              <date>2015-05-16</date>
+              <temp_min_c units="&#176;C">11</temp_min_c>
+              <temp_max_c units="&#176;C">23</temp_max_c>
+              <prob_precip units="%">80</prob_precip>
+              <icon>Late shower</icon>
+            </forecast>
+            <forecast day="2">
+              <day_name>Saturday</day_name>
+              <date>2015-05-17</date>
+              <temp_min_c units="&#176;C">10</temp_min_c>
+              <temp_max_c units="&#176;C">25</temp_max_c>
+              <prob_precip units="%">80</prob_precip>
+              <icon>Possible shower</icon>
+            </forecast>
+            <forecast day="3">
+              <day_name>Sunday</day_name>
+              <date>2015-05-18</date>
+              <temp_min_c units="&#176;C">11</temp_min_c>
+              <temp_max_c units="&#176;C">21</temp_max_c>
+              <prob_precip units="%">80</prob_precip>
+              <icon>Showers increasing</icon>
+            </forecast>
+          </forecasts>
+        </location>
+        <location type="TWCID" code="9110" name="Darwin" state="NT">
+          <forecasts>
+            <forecast day="0">
+              <day_name>Thursday</day_name>
+              <date>2015-05-15</date>
+              <temp_min_c units="&#176;C">25</temp_min_c>
+              <temp_max_c units="&#176;C">33</temp_max_c>
+              <prob_precip units="%">70</prob_precip>
+              <icon>Late thunder</icon>
+            </forecast>
+            <forecast day="1">
+              <day_name>Friday</day_name>
+              <date>2015-05-16</date>
+              <temp_min_c units="&#176;C">25</temp_min_c>
+              <temp_max_c units="&#176;C">33</temp_max_c>
+              <prob_precip units="%">80</prob_precip>
+              <icon>Late thunder</icon>
+            </forecast>
+            <forecast day="2">
+              <day_name>Saturday</day_name>
+              <date>2015-05-17</date>
+              <temp_min_c units="&#176;C">25</temp_min_c>
+              <temp_max_c units="&#176;C">32</temp_max_c>
+              <prob_precip units="%">90</prob_precip>
+              <icon>Thunderstorms</icon>
+            </forecast>
+            <forecast day="3">
+              <day_name>Sunday</day_name>
+              <date>2015-05-18</date>
+              <temp_min_c units="&#176;C">25</temp_min_c>
+              <temp_max_c units="&#176;C">32</temp_max_c>
+              <prob_precip units="%">90</prob_precip>
+              <icon>Thunderstorms</icon>
+            </forecast>
+          </forecasts>
+        </location>
+        <location type="TWCID" code="9329" name="Hobart" state="TAS">
+          <forecasts>
+            <forecast day="0">
+              <day_name>Thursday</day_name>
+              <date>2015-05-15</date>
+              <temp_min_c units="&#176;C">10</temp_min_c>
+              <temp_max_c units="&#176;C">20</temp_max_c>
+              <prob_precip units="%">20</prob_precip>
+              <icon>Drizzle clearing</icon>
+            </forecast>
+            <forecast day="1">
+              <day_name>Friday</day_name>
+              <date>2015-05-16</date>
+              <temp_min_c units="&#176;C">11</temp_min_c>
+              <temp_max_c units="&#176;C">21</temp_max_c>
+              <prob_precip units="%">20</prob_precip>
+              <icon>Mostly sunny</icon>
+            </forecast>
+            <forecast day="2">
+              <day_name>Saturday</day_name>
+              <date>2015-05-17</date>
+              <temp_min_c units="&#176;C">12</temp_min_c>
+              <temp_max_c units="&#176;C">23</temp_max_c>
+              <prob_precip units="%">10</prob_precip>
+              <icon>Drizzle clearing</icon>
+            </forecast>
+            <forecast day="3">
+              <day_name>Sunday</day_name>
+              <date>2015-05-18</date>
+              <temp_min_c units="&#176;C">12</temp_min_c>
+              <temp_max_c units="&#176;C">23</temp_max_c>
+              <prob_precip units="%">90</prob_precip>
+              <icon>Mostly sunny</icon>
+            </forecast>
+          </forecasts>
+        </location>
+        <location type="TWCID" code="9477" name="Melbourne" state="VIC">
+          <forecasts>
+            <forecast day="0">
+              <day_name>Thursday</day_name>
+              <date>2015-05-15</date>
+              <temp_min_c units="&#176;C">11</temp_min_c>
+              <temp_max_c units="&#176;C">25</temp_max_c>
+              <prob_precip units="%">5</prob_precip>
+              <icon>Mostly sunny</icon>
+            </forecast>
+            <forecast day="1">
+              <day_name>Friday</day_name>
+              <date>2015-05-16</date>
+              <temp_min_c units="&#176;C">13</temp_min_c>
+              <temp_max_c units="&#176;C">29</temp_max_c>
+              <prob_precip units="%">20</prob_precip>
+              <icon>Mostly sunny</icon>
+            </forecast>
+            <forecast day="2">
+              <day_name>Saturday</day_name>
+              <date>2015-05-17</date>
+              <temp_min_c units="&#176;C">17</temp_min_c>
+              <temp_max_c units="&#176;C">30</temp_max_c>
+              <prob_precip units="%">80</prob_precip>
+              <icon>Mostly sunny</icon>
+            </forecast>
+            <forecast day="3">
+              <day_name>Sunday</day_name>
+              <date>2015-05-18</date>
+              <temp_min_c units="&#176;C">20</temp_min_c>
+              <temp_max_c units="&#176;C">27</temp_max_c>
+              <prob_precip units="%">80</prob_precip>
+              <icon>Rain developing</icon>
+            </forecast>
+          </forecasts>
+        </location>
+        <location type="TWCID" code="9528" name="Perth" state="WA">
+          <forecasts>
+            <forecast day="0">
+              <day_name>Thursday</day_name>
+              <date>2015-05-15</date>
+              <temp_min_c units="&#176;C">19</temp_min_c>
+              <temp_max_c units="&#176;C">27</temp_max_c>
+              <prob_precip units="%">40</prob_precip>
+              <icon>Possible thunderstorm</icon>
+            </forecast>
+            <forecast day="1">
+              <day_name>Friday</day_name>
+              <date>2015-05-16</date>
+              <temp_min_c units="&#176;C">17</temp_min_c>
+              <temp_max_c units="&#176;C">28</temp_max_c>
+              <prob_precip units="%">5</prob_precip>
+              <icon>Mostly sunny</icon>
+            </forecast>
+            <forecast day="2">
+              <day_name>Saturday</day_name>
+              <date>2015-05-17</date>
+              <temp_min_c units="&#176;C">17</temp_min_c>
+              <temp_max_c units="&#176;C">29</temp_max_c>
+              <prob_precip units="%">5</prob_precip>
+              <icon>Mostly sunny</icon>
+            </forecast>
+            <forecast day="3">
+              <day_name>Sunday</day_name>
+              <date>2015-05-18</date>
+              <temp_min_c units="&#176;C">16</temp_min_c>
+              <temp_max_c units="&#176;C">27</temp_max_c>
+              <prob_precip units="%">5</prob_precip>
+              <icon>Mostly sunny</icon>
+            </forecast>
+          </forecasts>
+        </location>
+        <location type="TWCID" code="9770" name="Sydney" state="NSW">
+          <forecasts>
+            <forecast day="0">
+              <day_name>Thursday</day_name>
+              <date>2015-05-15</date>
+              <temp_min_c units="&#176;C">15</temp_min_c>
+              <temp_max_c units="&#176;C">22</temp_max_c>
+              <prob_precip units="%">5</prob_precip>
+              <icon>Clearing shower</icon>
+            </forecast>
+            <forecast day="1">
+              <day_name>Friday</day_name>
+              <date>2015-05-16</date>
+              <temp_min_c units="&#176;C">13</temp_min_c>
+              <temp_max_c units="&#176;C">21</temp_max_c>
+              <prob_precip units="%">20</prob_precip>
+              <icon>Mostly sunny</icon>
+            </forecast>
+            <forecast day="2">
+              <day_name>Saturday</day_name>
+              <date>2015-05-17</date>
+              <temp_min_c units="&#176;C">16</temp_min_c>
+              <temp_max_c units="&#176;C">23</temp_max_c>
+              <prob_precip units="%">50</prob_precip>
+              <icon>Mostly sunny</icon>
+            </forecast>
+            <forecast day="3">
+              <day_name>Sunday</day_name>
+              <date>2015-05-18</date>
+              <temp_min_c units="&#176;C">17</temp_min_c>
+              <temp_max_c units="&#176;C">23</temp_max_c>
+              <prob_precip units="%">90</prob_precip>
+              <icon>Possible shower</icon>
+            </forecast>
+          </forecasts>
+        </location>
+      </country>
+    </countries>
+  </weather>
+</data>
